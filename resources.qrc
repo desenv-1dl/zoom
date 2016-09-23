@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/plugins/zoom" >
+     <file>back.png</file>
+     <file>next.png</file>
+  </qresource>
+</RCC>
+
